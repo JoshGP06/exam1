@@ -10,4 +10,6 @@ public class Salary
     private SalaryCalculator(){
         private int= hours, hourly wage;
     }
+    
+//Missing components of the code
 }

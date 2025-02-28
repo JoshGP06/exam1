@@ -7,5 +7,6 @@
  */
 public class Canvas
 {
+//Missing components of the code
 
 }
