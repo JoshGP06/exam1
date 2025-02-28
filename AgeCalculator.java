@@ -7,13 +7,13 @@
  */
 public class AgeCalculator
 {
- private int currentYear = 2025;
+ // private int currentYear = 2025;
  
- if age >= 16 ableToDrive {
+ // if age >= 16 ableToDrive {
      
-     else   age =< 16 unableToDrive
+     // else   age =< 16 unableToDrive
      
-     System.out.println("You have   years to legally drive");
+     // System.out.println("You have   years to legally drive");
      
  }
-}
+
